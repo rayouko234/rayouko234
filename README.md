@@ -2,7 +2,7 @@
 
 **IT Specialist | Full-Stack Developer | Tech-for-Good Advocate**  
 📍 Nairobi, Kenya | 🌍 Building solutions for emerging markets  
-🎓 **MSc Digital Transformation** | **MSc AI** | **BSc Business Administration** | **B.Tech Computer Technology**  
+🎓 **MScDT** | **MScAI** | **BSc Business Administration** | **B.Tech Computer Technology**  
 📜 **Certifications:** CCNA | HCIA  
 
 ```diff
